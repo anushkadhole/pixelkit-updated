@@ -1,0 +1,9 @@
+:root {
+  --primary-color: #6200ee;
+  --text-color: #ffffff;
+  --padding: 0.5rem 1rem;
+}
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
