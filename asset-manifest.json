@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pixelkit/static/css/main.0cb4363a.css",
+    "main.js": "/pixelkit/static/js/main.2a3c2ca7.js",
+    "index.html": "/pixelkit/index.html",
+    "main.0cb4363a.css.map": "/pixelkit/static/css/main.0cb4363a.css.map",
+    "main.2a3c2ca7.js.map": "/pixelkit/static/js/main.2a3c2ca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cb4363a.css",
+    "static/js/main.2a3c2ca7.js"
+  ]
+}
